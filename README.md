@@ -4,3 +4,4 @@ by https://learn.shayhowe.com/ guide.
 &nbsp;
 &nbsp;
 ![Example](pictures/Screenshot.png)
+![Speakers](pictures/Speakers.png)
